@@ -4,6 +4,9 @@
 # Question for Chat
 Generate a summary of the introduction of this work without replicating the original text to ensure it is not considered plagiarism.
 
+# The thesis whose introduction will be summarized.
+https://repo.pw.edu.pl/fileView.seam?fileName=rafal_hazan_praca_magisterska.pdf&entityType=master&fileTitle=rafal_hazan_praca_magisterska.pdf+%2F+2+MB+%2F+&lang=pl&fileId=WUTc2d5f6a9406d41f191a4931c5d17ea84&cid=10515
+
 # Why Chat GPT
 The decision to utilize ChatGPT for generating the summary of the diploma thesis stems from the model's proficiency in crafting coherent and comprehensible content. ChatGPT demonstrates the ability to grasp the essence of complex information and provide a clear summary, which is crucial for the purposes of a diploma thesis. The choice of this tool is based on the belief that ChatGPT will enable the creation of a unique and yet pertinent summary, preserving the originality of the work.
 
